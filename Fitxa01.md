@@ -1,4 +1,4 @@
-# Fitxa 01 — Primers passos amb React
+# Fitxa 01 — Primers passos amb React a
 
 > **Objectiu general:** crear un projecte React amb JavaScript des de zero, mostrar un «Hola món!», construir un comptador interactiu i afegir-hi Tailwind CSS v4.
 
